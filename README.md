@@ -1,1 +1,1 @@
-# Qu-n-l-thu-c
+Quản lý nhà thuốc
